@@ -1,0 +1,4 @@
+saki	ramarao	delhi	male	18987605	phd 	manisaketh20@gmail.com	76	1	
+saketh	ramarao	hyderabad	male	05122001	phd	manisaketh20@gmail.com	10	2	
+anishka	anil	delhi	female	12345678	phd	anishka@mail.com	43	1	
+lasya	satya	vij	female	12345678	phd	lasya@mail.com	56	1	
